@@ -9,8 +9,9 @@ public class Program
 
         await using (ArKInterface arK = new(arKPort))
         {
-            await Task.Delay(5000);
+            await Task.Delay(1000);
             await arK.SendKey('Q',50);
+            await arK.SendSpecialKey(SpecialKey.TAB,50);
         };
 
         await Task.Delay(1000);

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39240b50f87bf758737183634251c2903ef7eebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("arK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
