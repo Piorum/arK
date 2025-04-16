@@ -1,4 +1,4 @@
 # Description
-C# .NET side of a basic Arduino keyboard.
+C# .NET controller for basic Arduino keyboard API.
 
-[Arduino Side](https://github.com/Piorum/arK-a)
+[Arduino API](https://github.com/Piorum/arK-a)
